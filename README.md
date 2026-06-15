@@ -211,6 +211,8 @@ Focus campaigns on:
 | GitHub     | Version Control & Portfolio    |
 
 ---
+<img width="810" height="460" alt="image" src="https://github.com/user-attachments/assets/30573d6e-38f4-412f-9086-04fef738b7b3" />
+
 
 ## Project Workflow
 
